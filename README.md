@@ -19,9 +19,6 @@ This is a simple GUI-based billing software built using **Python's Tkinter libra
 - Smooth navigation using Enter key
 - Automatically creates a `bills/` folder if it doesn't exist
 
-## 🖥️ Screenshots
-
-![Billing Software Screenshot](screenshot.png) *(Add your screenshot here)*
 
 ---
 
